@@ -4,4 +4,4 @@
 
 ## Tutorial Google Text-to-Speech:
 
-Open in Google Colab: [mmdetection](https://colab.research.google.com/github/jichengyuan/google-tts-colab-notebook/blob/main/tutorials/tutorials_detection_mmdetection.ipynb)
+Open in Google Colab: [colab](https://colab.research.google.com/github/jichengyuan/google-tts-colab-notebook/blob/main/google_tts_web_pyapi.ipynb)
