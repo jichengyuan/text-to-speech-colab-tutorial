@@ -1,5 +1,3 @@
-[![Alt text](https://img.youtube.com/vi/Urs3wYtOgzs/0.jpg)](https://www.youtube.com/watch?v=Urs3wYtOgzs)
-
 # Text-to-Speech-colab-Tutorial
 
 ## Tutorial Google Text-to-Speech:
